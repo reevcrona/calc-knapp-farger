@@ -1,0 +1,100 @@
+
+
+		Miniräknare design notes
+
+	återkomma till färg teman för 1-2
+	
+	kanske pröva en neon hover effect på en av dem
+
+	en version av alla borde ha färg indelade buttons
+
+	
+
+	hitta ett bra sätt att kunna dela in knapparna
+	i färger som jag kan återanvända för flera
+
+	på 3 kanske försöka göra så den ser ut som den är
+	gjord av trä
+
+	kanske få en att se ut som en gameboy
+
+
+	#23967F
+
+
+	Black, Silver, and White
+	Primary Button (Black): #343a40
+	Secondary Button (Silver): #c0c0c0
+	Tertiary Button (White): #ffffff
+
+	Forest Green, Mustard, and Cream
+	Primary Button (Forest Green): #228b22
+	Secondary Button (Mustard): #ffdb58
+	Tertiary Button (Cream): #fffdd0
+
+
+	Burgundy, Rose Gold, and Light Grey
+	Primary Button (Burgundy): #800020
+	Secondary Button (Rose Gold): #b76e79
+	Tertiary Button (Light Grey): #d3d3d3
+
+	
+
+	Purple, Pink, and Grey
+	Primary Button (Purple): #6f42c1
+	Secondary Button (Pink): #e83e8c
+	Tertiary Button (Grey): #6c757d
+
+
+	 Deep Pink, Dark Orange, and Gainsboro
+	Primary Button (Deep Pink): #ff1493
+	Secondary Button (Dark Orange): #ff8c00
+	Tertiary Button (Gainsboro): #dcdcdc
+
+
+
+	Steel Blue, Tomato, and Snow
+	Primary Button (Steel Blue): #4682b4
+	Secondary Button (Tomato): #ff6347
+	Tertiary Button (Snow): #fffafa
+	
+
+
+	Slate Gray, Amber, and Sea Shell
+	Primary Button (Slate Gray): #708090
+	Secondary Button (Amber): #ffbf00
+	Tertiary Button (Sea Shell): #fff5ee
+
+
+	Dark Slate Blue, Goldenrod, and Honeydew
+	Primary Button (Dark Slate Blue): #483d8b
+	Secondary Button (Goldenrod): #daa520
+	Tertiary Button (Honeydew): #f0fff0
+
+
+	 Cadet Blue, Dark Salmon, and Antique White
+	Primary Button (Cadet Blue): #5f9ea0
+	Secondary Button (Dark Salmon): #e9967a
+	Tertiary Button (Antique White): #faebd7
+
+
+	Dark Orchid, Chartreuse, and Beige
+	Primary Button (Dark Orchid): #9932cc
+	Secondary Button (Chartreuse): #7fff00
+	Tertiary Button (Beige): #f5f5dc
+
+
+	Firebrick, Medium Aquamarine, and Misty Rose
+	Primary Button (Firebrick): #b22222
+	Secondary Button (Medium Aquamarine): #66cdaa
+	Tertiary Button (Misty Rose): #ffe4e1
+
+	Medium Purple, Dark Orange, and Light Cyan
+	Primary Button (Medium Purple): #9370db
+	Secondary Button (Dark Orange): #ff8c00
+	Tertiary Button (Light Cyan): #e0ffff
+
+	Olive Drab, Dark Orange, and Snow
+	Primary Button (Olive Drab): #6b8e23
+	Secondary Button (Dark Orange): #ff8c00
+	Tertiary Button (Snow): #fffafa
